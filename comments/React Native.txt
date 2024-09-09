@@ -1,7 +1,0 @@
-React Native
-Python beautifulsoup
-three.js
-PHP
-https://learnopengl.com/
-
-https://youtu.be/fis26HvvDII?si=AVDmtQiP1dSmtxXb
